@@ -4,9 +4,11 @@
 
 1.	CD dans votre répertoire ressources /[esx]
 
-2.	Renommer le dossier et suprimer le ou suprimer tout simplement -master :
+2.	Renommer le dossier et suprimer le :
 
 > NardiBoon_PausseMenuEchap
+
+ou suprimer tout simplement -master :
 
 3.	Ajoutez ceci dans votre server.cfg :
 
