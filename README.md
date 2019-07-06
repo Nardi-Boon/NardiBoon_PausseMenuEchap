@@ -14,7 +14,7 @@
 ###### INFORMATION  ######
 Lien de la ressource (GitHub) :
 
->
+Lien : https://github.com/Nardi-Boon/NardiBoon_PausseMenuEchap
 
 Image In Game : 
 
