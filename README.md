@@ -4,7 +4,7 @@
 
 1.	CD dans votre répertoire ressources /[esx]
 
-2.	Renommer le dossier et suprimer le :
+2.	Renommer le dossier et suprimer le ou suprimer tout simplement -master :
 
 > NardiBoon_PausseMenuEchap
 
