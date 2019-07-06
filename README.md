@@ -14,9 +14,7 @@
 ###### INFORMATION  ######
 Lien de la ressource (GitHub) : https://github.com/Nardi-Boon/NardiBoon_PausseMenuEchap
 
-Image In Game : 
-
-Lien : https://media.discordapp.net/attachments/597087817675309059/597087924948959248/20190706155702_1.jpg?width=888&height=486
+Image In Game : https://media.discordapp.net/attachments/597087817675309059/597087924948959248/20190706155702_1.jpg?width=888&height=486
 
 Pour Plus d'information voici mon Discord : 
 
