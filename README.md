@@ -8,7 +8,7 @@
 
 > NardiBoon_PausseMenuEchap
 
-ou suprimer tout simplement -master :
+ou suprimer tout simplement > -master :
 
 3.	Ajoutez ceci dans votre server.cfg :
 
