@@ -4,18 +4,14 @@
 
 1.	CD dans votre répertoire ressources /[esx]
 
-2.	Renommer le dossier et suprimer le :
-
+2.	Renommer le dossier:
 > NardiBoon_PausseMenuEchap
-
-ou suprimer tout simplement > -master :
+ou suprimer tout simplement > -master:
 
 3.	Ajoutez ceci dans votre server.cfg :
-
 > start NardiBoon_PausseMenuEchap
 
-
-###### INFORMATION  ######
+###### INFORMATION  #####
 Lien de la ressource (GitHub) : https://github.com/Nardi-Boon/NardiBoon_PausseMenuEchap
 
 Image In Game : https://media.discordapp.net/attachments/597087817675309059/597087924948959248/20190706155702_1.jpg?width=888&height=486
