@@ -7,6 +7,7 @@
 2.	Renommer le dossier:
 
 > NardiBoon_PausseMenuEchap
+
 ou suprimer tout simplement > -master:
 
 3.	Ajoutez ceci dans votre server.cfg :
@@ -19,4 +20,4 @@ Image In Game : https://media.discordapp.net/attachments/597087817675309059/5970
 
 Pour Plus d'information voici mon Discord : 
 
-> Nardi Boon#1344
+> Nardi-_-Boon#1344
